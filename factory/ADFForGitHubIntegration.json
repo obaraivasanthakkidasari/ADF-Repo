@@ -1,0 +1,9 @@
+{
+	"name": "ADFForGitHubIntegration",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "447502ee-9351-4e78-9c64-131c07f88332",
+		"tenantId": "9ee7cd55-c275-48c7-9cd4-fb9544adee65"
+	}
+}
